@@ -1,0 +1,3 @@
+C:/Users/steven/Desktop/parcial 2 archivos keny lopez/cmake-build-debug/CMakeFiles/parcial_2_progra_keny_lopez.dir
+C:/Users/steven/Desktop/parcial 2 archivos keny lopez/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/steven/Desktop/parcial 2 archivos keny lopez/cmake-build-debug/CMakeFiles/rebuild_cache.dir
